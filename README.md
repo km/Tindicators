@@ -1,5 +1,5 @@
 # Tindicators
-**Tindicators** is a Python library to calculate the valeus of various technical indicators
+**Tindicators** is a Python library to calculate the values of various technical indicators
 
 ## Examples
 
